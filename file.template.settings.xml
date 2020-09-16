@@ -1,0 +1,16 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <j2ee_templates>
+      <template name="selenium3-build.gradle" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-gradle-wrapper.properties" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-groovy-MainPage.groovy" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-groovy-MainPageTest.groovy" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-java-MainPage.java" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-java-MainPageTest.java" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-kotlin-MainPage.kt" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-kotlin-MainPageTest.kt" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-pom.xml" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="selenium3-settings.gradle" reformat="true" live-template-enabled="false" enabled="false" />
+    </j2ee_templates>
+  </component>
+</application>
