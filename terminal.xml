@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Install\Git\git-cmd.exe" />
-    <option name="myTabName" value="局部" />
+    <option name="myShellPath" value="C:\Install\Git\git-bash.exe" />
+    <option name="myTabName" value="git-cmd" />
   </component>
 </application>
