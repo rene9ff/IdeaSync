@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="global data" />
       <item value="16:40 无法完成 GitHub 共享过程 已在 GitHub 上成功创建项目 '91sex' ，但初始推送失败: RPC failed; curl 92 HTTP2 stream 0 was not closed cleanly: CANCEL (err 8) send-pack: unexpected disconnect while reading sideband packet Total 244 (delta 54), reused 0 (delta 0), pack-reused 0 the remote end hung up unexpectedly" />
       <item value="category" />
       <item value="cate" />
@@ -16,7 +17,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
